@@ -1,7 +1,7 @@
 function sumInput() 
-let numbers = []; 
+let numbers = [];
 while (true) 
-let userInput = prompt("Enter a number:"); 
+let userInput = prompt("Enter a number:")
 
 
 
