@@ -1,0 +1,2 @@
+The code creates a array with two elements, then adds a function to it. As the function is called, it alerts ar
+ray with the function itself as a string. 

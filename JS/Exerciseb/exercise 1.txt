@@ -1,0 +1,1 @@
+his code will show that the fruits array has a length of 4 
