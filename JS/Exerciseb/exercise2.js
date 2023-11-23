@@ -8,7 +8,7 @@ styles.push("Rock-n-Roll");
 
 
 
-let middleIndex = Math.floor(styles.length / 2); 
+let middleIndex = Math.floor(styles.length/2); 
 styles[middleIndex] = "Classics"; 
 
 
